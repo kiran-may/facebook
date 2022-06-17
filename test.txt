@@ -3,3 +3,6 @@
 this is gitbash terminal
 
 new comment added
+
+
+This is alow updated from github GUI
